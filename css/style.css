@@ -837,8 +837,8 @@ a {
   border-color: #4D5AE5;
 }
 .modal-check:checked + .modal-check-text span {
-  background-color: var(--pressed-state-color);
-  fill: var(--light-color);
+  background-color:#404bbf;
+  fill: #F4F4FD;;
   border: none;
 }
 
